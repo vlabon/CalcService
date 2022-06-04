@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3360ABEF-51FF-447F-ABD2-1D99AD448737}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CalcService</RootNamespace>
-    <AssemblyName>CalcService</AssemblyName>
+    <RootNamespace>CalcServer</RootNamespace>
+    <AssemblyName>CalcServer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
