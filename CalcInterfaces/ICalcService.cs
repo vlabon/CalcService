@@ -12,5 +12,17 @@ namespace CalcInterfaces
     {
         [OperationContract]
         int Sum(int firstNumber, int secondNumber);
+
+        [OperationContract]
+        int Sub(int firstNumber, int secondNumber);
+
+        [OperationContract]
+        int Mul(int firstNumber, int secondNumber);
+
+        [OperationContract]
+        float Div(int firstNumber, int secondNumber);
+
+        [OperationContract]
+        int Mod(int firstNumber, int secondNumber);
     }
 }
