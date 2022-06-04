@@ -10,7 +10,6 @@ namespace CalcServer
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

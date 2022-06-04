@@ -8,6 +8,6 @@ namespace CalcInterfaces
 {
     public interface ICalcService
     {
-        int Sum(int firstNumber, int secondNumber);
+        int Sum(int fisrtNumber, int secondNumber)
     }
 }
